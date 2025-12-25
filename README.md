@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Ingeniera en Computacion**
+
 :pencil: **Aprendiendo Git y Git Hub**
-:eyeglasses: **Siempre aprendiendo algo nuevo** 
+
+:eyeglasses: **Siempre aprendiendo algo nuevo**
+
 :computer: **Fan de la Tecnologia**
+
 :family: **Mama de dos**
 
 ### Vias de contacto
