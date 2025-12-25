@@ -2,9 +2,9 @@
 
 :computer: **Ingeniera en Computacion**
 :pencil: **Aprendiendo Git y Git Hub**
-:eyeglassess: **Siempre aprendiendo algo nuevo** 
-:Computer: **Fan de la Tecnologia**
-:Family: **Mama de dos**
+:eyeglasses: **Siempre aprendiendo algo nuevo** 
+:computer: **Fan de la Tecnologia**
+:family: **Mama de dos**
 
 ### Vias de contacto
 
